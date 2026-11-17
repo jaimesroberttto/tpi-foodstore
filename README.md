@@ -41,7 +41,7 @@ También se carga un usuario cliente de ejemplo: `cliente@foodstore.com` / `clie
 
 ## Enlaces
 
-- Video explicativo (10 a 15 minutos, con los dos integrantes a cámara al inicio): _(completar enlace)_
+- Video explicativo (10 a 15 minutos, con los dos integrantes a cámara al inicio): https://drive.google.com/file/d/1XJHc-W4LR658g6ZJ20GNB5PnFeOhwVTb/view?usp=sharing
 - Informe en PDF: https://github.com/jaimesroberttto/tpi-foodstore/blob/main/Informe_TPI_FoodStore.pdf
 - Repositorio GitHub: https://github.com/jaimesroberttto/tpi-foodstore
 
